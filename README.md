@@ -30,4 +30,4 @@ npx skills-manager-cli web
   <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=shenysun&repo=skills-manager&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3fb950&icon_color=3fb950&text_color=e6edf3" alt="skills-manager" />
 </p>
 
-以前做游戏客户端 / 工具链（Egret、Cocos、Electron）。现在在做 Agent 技能的收纳和分发。
+以前做游戏客户端 / 工具链（Egret、Cocos、Electron、Web）。现在在做 Agent 应用开发、技能的收纳和分发。
