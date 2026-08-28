@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="280" viewBox="0 0 880 280" role="img" aria-label="skills-manager terminal">
+  <defs>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="880" height="280" rx="16" fill="#010409"/>
+  <rect x="16" y="16" width="848" height="248" rx="12" fill="url(#glass)" stroke="#30363d" stroke-width="1"/>
+
+  <circle cx="44" cy="44" r="6" fill="#ff5f56"/>
+  <circle cx="64" cy="44" r="6" fill="#ffbd2e"/>
+  <circle cx="84" cy="44" r="6" fill="#27c93f"/>
+  <text x="440" y="49" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" fill="#8b949e">shenysun — skills-manager</text>
+
+  <text x="40" y="92" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" fill="#8b949e">~/skills-hub</text>
+  <text x="40" y="128" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" fill="#3fb950">$ npx skills-manager-cli web</text>
+  <text x="40" y="168" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="22" font-weight="700" fill="#e6edf3">技能随便囤，Agent 按需接。</text>
+  <text x="40" y="204" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" fill="#8b949e">Claude · Cursor · Codex — 仓库可以很大，启动只亮需要的那几个。</text>
+  <text x="40" y="236" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" fill="#d29922">▸ local-first  ·  open source  ·  beijing</text>
+</svg>
